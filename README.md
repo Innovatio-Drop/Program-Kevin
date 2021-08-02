@@ -34,4 +34,8 @@ CHILUKALA SAI SUJITH
 Hajera
 Sri Varsha
 
-Key Competencies: 3D printing, MIM, Python, MQTT, motors, drivers, controllers, sensors.
+**Key Competencies:** 3D printing, MIM, Python, MQTT, motors, drivers, controllers, sensors.
+
+**Client :** Sreyas Institute of Engineering and Technology
+
+**Location :** Innovatio Hub(Robotics Research Center) https://www.google.com/maps/place/Sreyas+Institute+Of+Engineering+%26+Technology/@17.354678,78.594187,17z/data=!4m5!3m4!1s0x3bcb9f30cfffffff:0x642833977d8c2e2e!8m2!3d17.354461!4d78.593831?hl=en
