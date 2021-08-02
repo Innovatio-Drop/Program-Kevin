@@ -1,5 +1,4 @@
 # Program-Kevin
-# Surveillance bot
 An Agile project, Program Kevin is an interactive robot which recognizes speech and has vision feature which can also identify humans and moves according to human motives. It is an IOT project which is built using latest computer technology. The main project objective is to reduce human efforts in hazardous tasks and also time consumption in certain works which actually don’t need human presence. The project’s major deliverables include building the robot, quality inspection, and turnover on the scheduled project completion date.
 
 _**Program Head - P. Shadrach Sudershan**_
